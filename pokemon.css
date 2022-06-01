@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+div{
+    background-color: burlywood;
+    color:blue;
+    font-size:xx-large;
+    margin: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    display: block;
+    border-radius: 10px;
+}
+
+button{
+    background-color:blue;
+    color: whitesmoke;
+    font-size:xx-large;
+    border-radius: 15px;
+    text-align: center;
+}
+button:hover{
+    background-color: whitesmoke;
+    color: blue;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2) ;
+}
+.card{
+    width: 20rem;
+}
+p{
+    font-size: large;
+    color:rgb(240, 14, 14);
+    text-align: center;
+    text-transform: uppercase;
+}
